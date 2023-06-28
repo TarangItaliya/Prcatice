@@ -3,7 +3,9 @@ import React from 'react'
 const App = () => {
   return (
     <>
-    <div className='main_app'>App change done hear
+
+    <div className='main_app'>App
+
     </div>
     <div>this is a app page in react js</div>
     </>

@@ -4,11 +4,14 @@ const Form = () => {
   return (
     <>
     <div>
-      Login Form 
+     Sign in
+
     </div>
-    <form> 
-      Email:<input type="text" placeholder='Enter Email' />
-      Password:<input type="password" placeholder='Enter Password' />
+    <form>
+     First Name: <input type="text" />
+     Last Name: <input type="text" />
+     Email: <input type="text" />
+     Password: <input type="password" />
     </form>
     </>
   )
